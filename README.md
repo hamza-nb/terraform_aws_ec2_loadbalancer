@@ -2,8 +2,8 @@
 
 #
 
-> This is a terraform project who help you to create
-> a record in acm and link it with a port in ac2 instance
+> This is a terraform project who helps you to create
+> a record in acm -AWS Certificate Manager- and link it with a port -project- in an ec2 instance
 
 ## Features
 - Create an acm certificate
